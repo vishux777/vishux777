@@ -7,7 +7,7 @@
   
 
 - 🔭 I’m currently working on a Project ON VISMUS OS.
-Repository is provide because of some confidential issues.  
+Repository is private because of some confidential issues.  
   
 
 - 🌱 I’m currently learning C++ and DSA with C++.  
