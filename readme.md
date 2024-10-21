@@ -3,7 +3,7 @@
 </div>  
   
 <br>
-####--------------------------------------------------------------------------------------------------------------####
+
 <div align="left">I'm Vishwas, a passionate metaverse developer 👨‍💻 working in this field since 2023 🚀</div>  
   
 
