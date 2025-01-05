@@ -11,7 +11,7 @@
 Repository is private because of some confidential issues.  
   
 
-- 🌱 I’m currently learning C++ and DSA with C++.  
+- 🌱 I’m currently learning Bug Bounty and various other concepts of Cyber Security.  
   
 
 - ❓ Ask me about anything related to all these technologies  
