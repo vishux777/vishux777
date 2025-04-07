@@ -19,7 +19,7 @@ Repository is private because of some confidential issues.
 - ❓ Ask me about anything related to all these technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces.  
+- ⚡ Fun fact: I usually keep trying sudo rm -rf *.  
 
   
 
