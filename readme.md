@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m currently working on a Project ON VIS-MUS OS.
-Repository is private because of some confidential issues.  
+- 🔭 I’m currently working on a Project ON TorEx.
+Repository is public have a look.  
   
 
 - 🌱 I’m currently learning Bug Bounty and various other concepts of Cyber Security.  
